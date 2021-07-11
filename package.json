@@ -50,7 +50,7 @@
         "postcss": "8.3.5",
         "rollup": "2.53.0",
         "semantic-release": "17.4.4",
-        "tap": "14.11.0"
+        "tap": "15.0.9"
     },
     "dependencies": {
         "css-url-parser": "^1.1.3",
